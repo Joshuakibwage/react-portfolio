@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <SideNav />
-      <p>hello world</p>
+      
       <Footer />
     </div>
   )
