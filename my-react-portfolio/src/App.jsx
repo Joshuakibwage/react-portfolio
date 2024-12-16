@@ -1,12 +1,18 @@
+import Footer from "./components/Footer"
+import SideNav from "./components/SideNav"
+
+
 
 
 function App() {
   
 
   return (
-    <>
-      hello world
-    </>
+    <div>
+      <SideNav />
+      <p>hello world</p>
+      <Footer />
+    </div>
   )
 }
 
